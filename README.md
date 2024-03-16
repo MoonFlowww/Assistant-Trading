@@ -4,3 +4,17 @@ Launch init, then a console opens. Now the program is running, but there's one m
 Now you just have to press the number associated with Create Database and ENTER again. 
 
 The program now will works perfectly.
+
+
+
+Command that you need to use this program : 
+
+To install scipy librairy (for stats)
+pip install scipy
+pip install --upgrade --no-cache-dir git+https://github.com/rongardF/tvdatafeed.git
+
+on Windows :
+use 'pip'
+
+on MacOs :
+use 'brew'
