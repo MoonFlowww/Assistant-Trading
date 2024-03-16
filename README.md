@@ -11,6 +11,8 @@ Command that you need to use this program :
 
 To install scipy librairy (for stats)
 pip install scipy
+
+To install TvDataFeed librairy (for data)
 pip install --upgrade --no-cache-dir git+https://github.com/rongardF/tvdatafeed.git
 
 on Windows :
